@@ -1,10 +1,10 @@
 INTERNSHIP TEST
 
-Question 1 <br>
-![Q1](C:\Users\User\Desktop\pest_recognition\TEST_INTERNSHIP\Q1 Minmax results.png)
+Question 1
+![Q1](https://github.com/ShalonMM/TEST_INTERNSHIP/blob/app/Q1%20Minmax%20results.png)
 
-Question 2 <br>
-![Q2](C:\Users\User\Desktop\pest_recognition\TEST_INTERNSHIP\Q2 Matrix results.png)
+Question 2
+![Q2](https://github.com/ShalonMM/TEST_INTERNSHIP/blob/app/Q2%20Matrix%20results.png)
 
-Question 3 <br>
-![Q3](C:\Users\User\Desktop\pest_recognition\TEST_INTERNSHIP\Q3 sumPairs results.png)
+Question 3
+![Q3](https://github.com/ShalonMM/TEST_INTERNSHIP/blob/app/Q3%20sumPairs%20results.png)
